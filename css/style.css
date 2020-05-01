@@ -1,10 +1,32 @@
 
 body
 {
-    background-color: #0e589d;
+    background-color: #316DC3;
+    color: white;
 }
 
-.Links
+.SocialMediaLinks
 {
-    size: 10px 10px;
+    flex: auto;
+    font-size: 100%;
+    background-color: #316DC3;
+    border: 0px; 
+      
+}
+
+button:hover
+{
+    opacity: 0.7;
+    background-color: #316DC3;
+}
+
+img
+{
+    width: 20px;
+    height: 20px;
+}
+
+#topbar
+{
+    color: white;
 }
